@@ -1,1 +1,1 @@
-# CSE110
+https://brianwengalreadytaken.github.io/CSE110/

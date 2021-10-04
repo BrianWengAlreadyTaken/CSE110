@@ -1,1 +1,13 @@
 Fill in the passphrases here.
+1: greenEggsAndHam 
+2: iHateCplusplus
+3: HTMLRocks
+9: 2020sucked
+4: JavaScriptRules
+12: iLoveWebDev
+11: a11yComesFirst
+5: SvelteBeatsReact
+7: YouFoundMe
+6: ThisIsJS
+8: coolcoolcool
+10: listenToTheBlackKeys
